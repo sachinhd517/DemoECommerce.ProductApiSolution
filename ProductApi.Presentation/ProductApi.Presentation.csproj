@@ -8,10 +8,19 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Controllers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\DemoECommerce.SharedLibrarySolutionNew\eCommerce.SharedLibrary\eCommerce.SharedLibrary.csproj" />
+    <ProjectReference Include="..\ProductApi.Domain\ProductApi.Domain.csproj" />
   </ItemGroup>
 
 </Project>
