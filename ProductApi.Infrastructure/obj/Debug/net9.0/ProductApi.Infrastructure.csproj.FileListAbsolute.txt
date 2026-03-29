@@ -9,3 +9,8 @@ C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Infrastru
 C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\obj\Debug\net9.0\refint\ProductApi.Infrastructure.dll
 C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\obj\Debug\net9.0\ProductApi.Infrastructure.pdb
 C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\obj\Debug\net9.0\ref\ProductApi.Infrastructure.dll
+C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\bin\Debug\net9.0\eCommerce.SharedLibrary.dll
+C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\bin\Debug\net9.0\eCommerce.SharedLibrary.pdb
+C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\obj\Debug\net9.0\ProductApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\obj\Debug\net9.0\ProductApi.Infrastructure.sourcelink.json
+C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Infrastructure\obj\Debug\net9.0\ProductA.D44E8AF8.Up2Date
