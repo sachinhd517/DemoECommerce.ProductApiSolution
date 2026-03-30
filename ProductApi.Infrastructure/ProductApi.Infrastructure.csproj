@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\DemoECommerce.SharedLibrarySolutionNew\eCommerce.SharedLibrary\eCommerce.SharedLibrary.csproj" />
+    <ProjectReference Include="..\ProductApi.Application\ProductApi.Application.csproj" />
   </ItemGroup>
 
 </Project>
