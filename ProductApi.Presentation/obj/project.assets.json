@@ -1863,6 +1863,20 @@
           "bin/placeholder/eCommerce.SharedLibrary.dll": {}
         }
       },
+      "ProductApi.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "ProductApi.Domain": "1.0.0",
+          "eCommerce.SharedLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProductApi.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProductApi.Application.dll": {}
+        }
+      },
       "ProductApi.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -1871,6 +1885,20 @@
         },
         "runtime": {
           "bin/placeholder/ProductApi.Domain.dll": {}
+        }
+      },
+      "ProductApi.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "ProductApi.Application": "1.0.0",
+          "eCommerce.SharedLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProductApi.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProductApi.Infrastructure.dll": {}
         }
       }
     }
@@ -5120,18 +5148,27 @@
       "path": "../../DemoECommerce.SharedLibrarySolutionNew/eCommerce.SharedLibrary/eCommerce.SharedLibrary.csproj",
       "msbuildProject": "../../DemoECommerce.SharedLibrarySolutionNew/eCommerce.SharedLibrary/eCommerce.SharedLibrary.csproj"
     },
+    "ProductApi.Application/1.0.0": {
+      "type": "project",
+      "path": "../ProductApi.Application/ProductApi.Application.csproj",
+      "msbuildProject": "../ProductApi.Application/ProductApi.Application.csproj"
+    },
     "ProductApi.Domain/1.0.0": {
       "type": "project",
       "path": "../ProductApi.Domain/ProductApi.Domain.csproj",
       "msbuildProject": "../ProductApi.Domain/ProductApi.Domain.csproj"
+    },
+    "ProductApi.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../ProductApi.Infrastructure/ProductApi.Infrastructure.csproj",
+      "msbuildProject": "../ProductApi.Infrastructure/ProductApi.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.AspNetCore.OpenApi >= 9.0.14",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.1",
-      "ProductApi.Domain >= 1.0.0",
-      "eCommerce.SharedLibrary >= 1.0.0"
+      "ProductApi.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5167,11 +5204,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj": {
-              "projectPath": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\ProductApi.Domain.csproj"
-            },
-            "C:\\Users\\Asus\\source\\repos\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj": {
-              "projectPath": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj"
+            "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj"
             }
           }
         }
