@@ -32,3 +32,4 @@ C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Presentat
 C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Presentation\obj\Debug\net9.0\ProductApi.Presentation.pdb
 C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Presentation\obj\Debug\net9.0\ProductApi.Presentation.genruntimeconfig.cache
 C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Presentation\obj\Debug\net9.0\ref\ProductApi.Presentation.dll
+C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Presentation\obj\Debug\net9.0\ProductApi.Presentation.sourcelink.json

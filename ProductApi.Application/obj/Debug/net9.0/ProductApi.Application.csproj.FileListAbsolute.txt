@@ -9,3 +9,10 @@ C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Applicati
 C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\refint\ProductApi.Application.dll
 C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.pdb
 C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ref\ProductApi.Application.dll
+C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\eCommerce.SharedLibrary.dll
+C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\ProductApi.Domain.dll
+C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\eCommerce.SharedLibrary.pdb
+C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Application\bin\Debug\net9.0\ProductApi.Domain.pdb
+C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductApi.Application.sourcelink.json
+C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Application\obj\Debug\net9.0\ProductA.E443A747.Up2Date
