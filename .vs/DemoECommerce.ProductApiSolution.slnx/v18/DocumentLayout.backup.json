@@ -11,24 +11,27 @@
       "RelativeMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C91DCB06-E7CB-ABC0-0E36-6C052F6BA79B}|ProductApi.Domain\\ProductApi.Domain.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91DCB06-E7CB-ABC0-0E36-6C052F6BA79B}|ProductApi.Domain\\ProductApi.Domain.csproj|solutionrelative:productapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEA681F-7760-0A5A-E611-5CBE51A2BEF1}|..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.sharedlibrarysolutionnew\\ecommerce.sharedlibrary\\interface\\igenericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.application\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.application\\productapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\productapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.application\\dtos\\conversion\\productconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\dtos\\conversion\\productconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C91DCB06-E7CB-ABC0-0E36-6C052F6BA79B}|ProductApi.Domain\\ProductApi.Domain.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C91DCB06-E7CB-ABC0-0E36-6C052F6BA79B}|ProductApi.Domain\\ProductApi.Domain.csproj|solutionrelative:productapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.application\\dtos\\conversion\\productconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\dtos\\conversion\\productconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.application\\productapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\productapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,8 +40,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 181,
-          "SelectedChildIndex": 6,
+          "DockedWidth": 179,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,16 +69,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ProductConversion.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\Conversion\\ProductConversion.cs",
               "RelativeDocumentMoniker": "ProductApi.Application\\DTOs\\Conversion\\ProductConversion.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\Conversion\\ProductConversion.cs",
               "RelativeToolTip": "ProductApi.Application\\DTOs\\Conversion\\ProductConversion.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T18:19:02.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T18:19:02.591Z"
             },
             {
               "$type": "Document",
@@ -85,14 +87,13 @@
               "RelativeDocumentMoniker": "ProductApi.Application\\DTOs\\ProductDTO.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\ProductDTO.cs",
               "RelativeToolTip": "ProductApi.Application\\DTOs\\ProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T13:51:26.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T13:51:26.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "ProductApi.Domain\\Entities\\Product.cs",
@@ -100,14 +101,19 @@
               "RelativeToolTip": "ProductApi.Domain\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T13:45:17.447Z"
+              "WhenOpened": "2026-03-29T13:45:17.447Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 219,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 221,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -116,10 +122,22 @@
               "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Data\\ProductDBContext.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\ProductDBContext.cs",
               "RelativeToolTip": "ProductApi.Infrastructure\\Data\\ProductDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-30T18:50:52.344Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\Interfaces\\IProduct.cs",
+              "RelativeDocumentMoniker": "ProductApi.Application\\Interfaces\\IProduct.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\Interfaces\\IProduct.cs",
+              "RelativeToolTip": "ProductApi.Application\\Interfaces\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T18:41:18.071Z"
             },
             {
               "$type": "Document",
@@ -129,40 +147,38 @@
               "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowIwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-30T18:47:16.296Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IProduct.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\Interfaces\\IProduct.cs",
-              "RelativeDocumentMoniker": "ProductApi.Application\\Interfaces\\IProduct.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\Interfaces\\IProduct.cs",
-              "RelativeToolTip": "ProductApi.Application\\Interfaces\\IProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T18:41:18.071Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductApi.Application",
+              "Title": "IGenericInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "RelativeDocumentMoniker": "..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "RelativeToolTip": "..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:37:13.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductApi.Application.csproj",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj",
               "RelativeDocumentMoniker": "ProductApi.Application\\ProductApi.Application.csproj",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj",
               "RelativeToolTip": "ProductApi.Application\\ProductApi.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-30T18:40:10.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "WhenOpened": "2026-03-30T18:40:10.367Z"
             }
           ]
         }
