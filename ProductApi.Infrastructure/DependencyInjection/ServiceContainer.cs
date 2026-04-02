@@ -36,6 +36,7 @@ namespace ProductApi.Infrastructure.DependencyInjection
             // Register middelware such as:
             // Global Exception: handles external errors.
             // Listen to only Api Gateway: blocks all outsider calls;
+            SharedServiceContainer.UseSharedPolicies(app);
 
             return app;
         }

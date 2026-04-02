@@ -5,8 +5,8 @@ C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domain\ob
 C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\ProductApi.Domain.AssemblyInfoInputs.cache
 C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\ProductApi.Domain.AssemblyInfo.cs
 C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\ProductApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\ProductApi.Domain.sourcelink.json
 C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\ProductApi.Domain.dll
 C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\refint\ProductApi.Domain.dll
 C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\ProductApi.Domain.pdb
 C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\ref\ProductApi.Domain.dll
-C:\Users\Asus\source\repos\DemoECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net9.0\ProductApi.Domain.sourcelink.json
