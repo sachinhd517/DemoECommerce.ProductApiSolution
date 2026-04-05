@@ -18,13 +18,17 @@ namespace ProductApi.Presentation.Controllers
         {
             // Get all products from repo
             var products = await productInterface.GetAllAsync();
-            if (!products.Any())
+
+            //
+            if (products == null || !products.Any())
             {
                 return NotFound("No Product detected on the database..");
+                //return Ok(new List<ProductDTO>());
             }
             // convert data from entity to DTO and return
             var (_, list) = ProductConversion.FromEntity(null!, products);
-            return list!.Any() ? Ok(list) : NotFound("No product found");
+            //return Ok(list);
+            return list != null && list.Any() ? Ok(list) : NotFound("No product found");
         }
 
 
