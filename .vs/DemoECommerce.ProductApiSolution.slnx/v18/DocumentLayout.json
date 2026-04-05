@@ -3,35 +3,66 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C91DCB06-E7CB-ABC0-0E36-6C052F6BA79B}|ProductApi.Domain\\ProductApi.Domain.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C91DCB06-E7CB-ABC0-0E36-6C052F6BA79B}|ProductApi.Domain\\ProductApi.Domain.csproj|solutionrelative:productapi.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EEA681F-7760-0A5A-E611-5CBE51A2BEF1}|..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.sharedlibrarysolutionnew\\ecommerce.sharedlibrary\\interface\\igenericinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.application\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\interfaces\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.presentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.application\\dtos\\conversion\\productconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\dtos\\conversion\\productconversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.application\\productapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\productapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEA681F-7760-0A5A-E611-5CBE51A2BEF1}|..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.sharedlibrarysolutionnew\\ecommerce.sharedlibrary\\middleware\\globalexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEA681F-7760-0A5A-E611-5CBE51A2BEF1}|..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.sharedlibrarysolutionnew\\ecommerce.sharedlibrary\\response\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C152D4-EB37-21FD-C074-B978D4A76B62}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_FRIFNGG5_SQLEXPRESS/YouTubeECommerceDb/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768C84DC-A07C-130E-F83A-2D46F58FCD08}|ProductApi.Infrastructure\\ProductApi.Infrastructure.csproj|solutionrelative:productapi.infrastructure\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEA681F-7760-0A5A-E611-5CBE51A2BEF1}|..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.sharedlibrarysolutionnew\\ecommerce.sharedlibrary\\logs\\logexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEA681F-7760-0A5A-E611-5CBE51A2BEF1}|..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.sharedlibrarysolutionnew\\ecommerce.sharedlibrary\\dependancyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEA681F-7760-0A5A-E611-5CBE51A2BEF1}|..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.sharedlibrarysolutionnew\\ecommerce.sharedlibrary\\middleware\\listentoonlyapigateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\users\\asus\\source\\repos\\demoecommerce.productapisolution\\productapi.presentation\\productapi.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{10C14DD9-53FF-78D1-447C-E91F171A5217}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\productapi.presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,13 +71,9 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 179,
-          "SelectedChildIndex": 8,
+          "DockedWidth": 104,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75c83ab3-5264-45e8-ad32-5c8a41ad477d}"
@@ -69,15 +96,187 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\ProductDBContext.cs",
+              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Data\\ProductDBContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\ProductDBContext.cs",
+              "RelativeToolTip": "ProductApi.Infrastructure\\Data\\ProductDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:11:33.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAuwGAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T12:36:33.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Program.cs",
+              "RelativeToolTip": "ProductApi.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T18:32:13.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductApi.Presentation\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-02T18:24:23.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\appsettings.json",
+              "RelativeToolTip": "ProductApi.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-02T19:04:26.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\appsettings.Development.json",
+              "RelativeToolTip": "ProductApi.Presentation\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-02T18:23:33.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductApi.Presentation.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\ProductApi.Presentation.csproj",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\ProductApi.Presentation.csproj",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\ProductApi.Presentation.csproj",
+              "RelativeToolTip": "ProductApi.Presentation\\ProductApi.Presentation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-02T19:01:24.143Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 296,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProductConversion.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\Conversion\\ProductConversion.cs",
               "RelativeDocumentMoniker": "ProductApi.Application\\DTOs\\Conversion\\ProductConversion.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\Conversion\\ProductConversion.cs",
               "RelativeToolTip": "ProductApi.Application\\DTOs\\Conversion\\ProductConversion.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvy0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T18:19:02.591Z"
+              "WhenOpened": "2026-04-04T08:49:57.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Middleware\\GlobalExceptions.cs",
+              "RelativeDocumentMoniker": "..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Middleware\\GlobalExceptions.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Middleware\\GlobalExceptions.cs",
+              "RelativeToolTip": "..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Middleware\\GlobalExceptions.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAADwv1QAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T13:24:32.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductApi.Presentation\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T19:28:30.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.Products.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_FRIFNGG5_SQLEXPRESS/YouTubeECommerceDb/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/LAPTOP_FRIFNGG5_SQLEXPRESS/YouTubeECommerceDb/True/SqlTable/dbo.Products.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-03T13:15:38.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "ProductApi.Infrastructure\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T11:30:03.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Response\\Response.cs",
+              "RelativeDocumentMoniker": "..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Response\\Response.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Response\\Response.cs",
+              "RelativeToolTip": "..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Response\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T12:04:04.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LogException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "RelativeDocumentMoniker": "..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "RelativeToolTip": "..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Logs\\LogException.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T17:24:01.475Z"
             },
             {
               "$type": "Document",
@@ -87,98 +286,34 @@
               "RelativeDocumentMoniker": "ProductApi.Application\\DTOs\\ProductDTO.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\ProductDTO.cs",
               "RelativeToolTip": "ProductApi.Application\\DTOs\\ProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T13:51:26.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "ProductApi.Domain\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Domain\\Entities\\Product.cs",
-              "RelativeToolTip": "ProductApi.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T13:45:17.447Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 221,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\ProductDBContext.cs",
-              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Data\\ProductDBContext.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\ProductDBContext.cs",
-              "RelativeToolTip": "ProductApi.Infrastructure\\Data\\ProductDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T18:50:52.344Z",
+              "WhenOpened": "2026-04-04T09:43:03.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IProduct.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\Interfaces\\IProduct.cs",
-              "RelativeDocumentMoniker": "ProductApi.Application\\Interfaces\\IProduct.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\Interfaces\\IProduct.cs",
-              "RelativeToolTip": "ProductApi.Application\\Interfaces\\IProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "SharedServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\DependancyInjection\\SharedServiceContainer.cs",
+              "RelativeDocumentMoniker": "..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\DependancyInjection\\SharedServiceContainer.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\DependancyInjection\\SharedServiceContainer.cs",
+              "RelativeToolTip": "..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\DependancyInjection\\SharedServiceContainer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T18:41:18.071Z"
+              "WhenOpened": "2026-04-03T12:26:29.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "ProductApi.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAowIwAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "ListenToOnlyApiGateway.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
+              "RelativeDocumentMoniker": "..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
+              "RelativeToolTip": "..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Middleware\\ListenToOnlyApiGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T18:47:16.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IGenericInterface.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
-              "RelativeDocumentMoniker": "..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
-              "RelativeToolTip": "..\\DemoECommerce.SharedLibrarySolutionNew\\eCommerce.SharedLibrary\\Interface\\IGenericInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T17:37:13.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductApi.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj",
-              "RelativeDocumentMoniker": "ProductApi.Application\\ProductApi.Application.csproj",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\ProductApi.Application.csproj",
-              "RelativeToolTip": "ProductApi.Application\\ProductApi.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-30T18:40:10.367Z"
+              "WhenOpened": "2026-04-03T18:04:05.441Z"
             }
           ]
         }
